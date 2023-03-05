@@ -1,9 +1,9 @@
 # CustomQuery
 
 StudentController
--It has all the methods responsible for saving student data
--getting data based on firstname,lastname, age
--updates student data
+    -It has all the methods responsible for saving student data
+    -getting data based on firstname,lastname, age
+    -updates student data
 
 List of methods implemented:
 
